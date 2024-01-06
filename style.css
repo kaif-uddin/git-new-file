@@ -29,4 +29,31 @@ height: 35%;
 }
 .plan{
     text-align: center;
+
+}
+.icon{
+    display: flex;
+}
+.econ{
+    margin-right: 120px;
+}
+#nocl{
+    background: #Ffffff;
+    padding: 10px;
+}
+.addphoto{
+    background-image: url(images/watch.png);
+    width: 1000px;
+    height: 300px;
+}
+.kaif{
+    padding-left: 64px ;
+    padding-top: 59px;
+    padding-right: 600px;
+
+}
+.addcolor{
+    background-image: url(images/gradient2.png);
+    width: 1000px;
+    height: 300px;
 }
