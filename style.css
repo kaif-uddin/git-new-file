@@ -12,3 +12,21 @@ height: 35%;
     padding: 10px;
     border-radius: 10px;
   }  
+  main{
+    margin-top: 150px ;
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+#photo{
+   
+}
+#flex{
+    display: flex;
+    justify-content: space-between;
+}
+#pad{
+    padding: 100px;
+}
+.plan{
+    text-align: center;
+}
